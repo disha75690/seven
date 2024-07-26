@@ -1,7 +1,9 @@
-mango
+simango
 orange
 apple
 pineapple
 ramcharan
 prabash
 alluarjun
+siva
+praneeth
